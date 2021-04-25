@@ -1,0 +1,27 @@
+### DOCKER PLANS
+* Requirements
+* * docker + docker-compose
+* * If on windows use virtualbox with linux, then port forward using NAT
+
+* TOPICS
+* * Docker YML file
+* * * Docker Services
+* * * Docker Image
+* * * Docker Build File
+* * * Docker Container Name
+* * * Docker Network
+* * * Docker Volumnes
+* * * Docker Ports
+* * * Docker Environment
+* * * Docker Structure
+* * * TIPS - Portainer
+
+* Lumen Custom Packae
+* * Local setup
+* * Package setup
+* * * composer.json
+* * * controller
+* * * service provider
+* * * router
+* * * test case
+* * * installation

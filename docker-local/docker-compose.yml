@@ -13,7 +13,7 @@ services:
     container_name: demo-api
     image: demo/api
     build:
-      context: ${DEMO_API}
+      context: ./demo-api
     volumes:
       - ${DEMO_API}:${WEBDEVOPS_WEB_DOCUMENT_ROOT}${APP_CODE_CONTAINER_FLAG}
       - ${DEMO_PACKAGES}:${WEBDEVOPS_WEB_DOCUMENT_ROOT}/packages${APP_CODE_CONTAINER_FLAG}

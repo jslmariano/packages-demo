@@ -20,8 +20,24 @@
 * * Local setup
 * * Package setup
 * * * composer.json
+* * * * NTOE: https://stackoverflow.com/questions/36538972/composer-autoload-dev-does-not-work
 * * * controller
 * * * service provider
 * * * router
 * * * test case
 * * * installation
+
+* DEVELOPER
+* * Routines develop sense of awareness
+
+MODULAR
+* Auth
+* * Login
+* * Register
+
+* Security
+* * Session
+* * Cookie
+
+* Marketing
+* * 
